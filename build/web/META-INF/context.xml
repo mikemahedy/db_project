@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <Context antiJARLocking="true" path="/WebApplication1"/>
+=======
+<Context path="/DemoWebApplication"/>
+>>>>>>> c3763f7cb74c44814169d507d7b035e8c0ac4115
